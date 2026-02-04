@@ -1,0 +1,10 @@
+name = "ruleatlas-api"
+main = "src/index.ts"
+compatibility_date = "2026-02-03"
+
+# Bindings to add after creating them in Cloudflare:
+# kv_namespaces = [
+#   { binding = "WAITLIST", id = "<kv-namespace-id>" }
+# ]
+#
+# vars = { ENV = "prod" }
